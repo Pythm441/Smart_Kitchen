@@ -59,7 +59,6 @@ Whether you're counting macros, exploring new recipes, or just need dinner inspi
 - [ ] Enable user profiles and saved preferences
 - [ ] Support for allergens and dietary restrictions
 - [ ] Push notifications for daily meal suggestions
-- [ ] Dark mode support
 - [ ] Multi-language support
 
 ---
