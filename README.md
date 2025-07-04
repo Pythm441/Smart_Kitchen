@@ -3,7 +3,7 @@
 **Smart Chef** is your intelligent kitchen companion — helping everyday people become chefs in their own homes.  
 Whether you're craving a specific dish or trying to stick to a calorie plan, Smart Chef has you covered.
 
----
+----
 
 ## 📱 Download Now
 
@@ -11,7 +11,7 @@ Smart Chef is available **for free** on the App Store:
 
 👉 [Download on the App Store](https://apps.apple.com/us/app/shef/id6472291574)
 
----
+----
 
 ## 🍽️ What Does Smart Chef Do?
 
@@ -23,7 +23,7 @@ Smart Chef helps you:
 
 Whether you're counting macros, exploring new recipes, or just need dinner inspiration, Smart Chef makes it simple.
 
----
+----
 
 ## 🚀 Features
 
@@ -33,14 +33,14 @@ Whether you're counting macros, exploring new recipes, or just need dinner inspi
 - ✅ Automatically generate a personalized meal course
 - ✅ Clean and intuitive user interface
 
----
+----
 
 ## 🔧 Built With
 
 - 🍎 Swift & SwiftUI (iOS)
 - 🔗 [Spoonacular Food API](https://spoonacular.com/food-api) for recipes and nutrition data
 
----
+----
 
 ## 🧑‍💻 Team & Contributions
 
@@ -51,7 +51,7 @@ Whether you're counting macros, exploring new recipes, or just need dinner inspi
 | **Hesham Fakoush**     | UI Programmer / Designer            |
 | **Abdulrahman Metawea**| Logic Developer / UI Developer      |
 
----
+----
 
 ## 💡 Future Plans
 
@@ -61,19 +61,19 @@ Whether you're counting macros, exploring new recipes, or just need dinner inspi
 - [ ] Push notifications for daily meal suggestions
 - [ ] Multi-language support
 
----
+----
 
 ## 🤝 Contributing
 
 Currently, this is a student-driven project.  
 If you’re interested in contributing, feel free to fork the repo or get in touch with any of the team members!
 
----
+----
 
 ## 📬 Contact
 
 Feel free to reach out to any of the contributors via GitHub for questions or feedback.
 
----
+----
 
 > _"Smart Chef — turning kitchens into Michelin moments."_
