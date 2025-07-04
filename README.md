@@ -5,9 +5,11 @@ Whether you're craving a specific dish or trying to stick to a calorie plan, Sma
 
 ---
 
-## 📱 Download
+## 📱 Download Now
 
-You can download **Smart Chef** for **free** from the [App Store]([https://apps.apple.com](https://apps.apple.com/us/app/shef/id6472291574)).
+Smart Chef is available **for free** on the App Store:
+
+👉 [Download on the App Store](https://apps.apple.com/us/app/shef/id6472291574)
 
 ---
 
@@ -42,20 +44,20 @@ Whether you're counting macros, exploring new recipes, or just need dinner inspi
 
 ## 🧑‍💻 Team & Contributions
 
-| Name                  | Role                                |
-|-----------------------|-------------------------------------|
-| **Awadh AlMansoori**  | Logic Developer / UI Developer      |
-| **Mohamed Alkhateeb** | UI/UX Designer                      |
-| **Hesham Fakoush**    | UI Programmer / Designer            |
-| **Abdulrahman Metawea** | Logic Developer / UI Developer     |
+| Name                   | Role                                |
+|------------------------|-------------------------------------|
+| **Awadh AlMansoori**   | Logic Developer / UI Developer      |
+| **Mohamed Alkhateeb**  | UI/UX Designer                      |
+| **Hesham Fakoush**     | UI Programmer / Designer            |
+| **Abdulrahman Metawea**| Logic Developer / UI Developer      |
 
 ---
 
 ## 💡 Future Plans
 
 - [ ] Add grocery list generation
-- [ ] Enable user profile and saved preferences
-- [ ] Add support for allergens and dietary restrictions
+- [ ] Enable user profiles and saved preferences
+- [ ] Support for allergens and dietary restrictions
 - [ ] Push notifications for daily meal suggestions
 - [ ] Dark mode support
 - [ ] Multi-language support
